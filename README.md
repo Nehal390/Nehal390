@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Nehal 👋
 
-<!--
-**Nehal390/Nehal390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer  
+💻 Building AI, SaaS & Real-World Projects  
+🌱 Learning DSA, Open Source & System Design
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+💻 Languages: Java, JavaScript, SQL
+
+⚡ Frontend:
+React.js • Next.js • Tailwind CSS • HTML • CSS
+
+🛠 Backend:
+Node.js • Express.js • Prisma
+
+🗄 Database:
+MySQL • PostgreSQL
+
+☁ Tools:
+Git • GitHub • Vercel • Cursor • VS Code
+
+---
+
+## Featured Projects
+
+### 🛒 SmartCart Compare
+Compare grocery cart prices across Blinkit, Zepto, Instamart & BigBasket.
+
+### 📄 Resume AI Analyzer
+AI-powered resume scoring and feedback platform.
+
+### 🧴 Skin Analysis App
+AI-based skincare recommendation system.
+
+### 🏥 Mediscan AI
+Healthcare/medical scanning related project.
+
+---
+
+## Current Goals
+- Open Source Contributions (GSSoC'26)
+- Master DSA
+- Build Production SaaS Apps
+- Crack Great Internship Opportunities
+
+---
+
+## Connect With Me
+
+📧 Email: your-email  
+💼 LinkedIn: your-linkedin
