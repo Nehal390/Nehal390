@@ -50,5 +50,5 @@ Healthcare/medical scanning related project.
 
 ## Connect With Me
 
-📧 Email: your-email  
-💼 LinkedIn: your-linkedin
+📧 Email: nehalagarwalnehal@gmail.com
+💼 LinkedIn: https://in.linkedin.com/in/nehal-ll00
