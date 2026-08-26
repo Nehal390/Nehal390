@@ -37,5 +37,5 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 10
 
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_display: compact
