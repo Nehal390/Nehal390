@@ -177,37 +177,25 @@ A logistics and analytics platform designed to make supply chains more resilient
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+### 📈 Contribution Overview
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Nehal390&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  alt="GitHub Stats"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Nehal390&theme=tokyo-night&hide_border=true&area=true"
+  width="850"
+  alt="GitHub Contribution Activity"
 />
 
-</td>
+<br><br>
 
-<td width="50%">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Nehal390&theme=tokyonight&hide_border=true"
-  alt="GitHub Contribution Streak"
-/>
-
-</td>
-</tr>
-</table>
-
-<br>
+### 🐍 Contribution Snake
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal390&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Most Used Languages"
+  src="https://raw.githubusercontent.com/Nehal390/Nehal390/output/github-contribution-grid-snake-dark.svg"
+  width="850"
+  alt="GitHub Contribution Snake"
 />
 
 </div>
-
 ---
 
 # 🧊 3D Contribution Profile
