@@ -1,24 +1,27 @@
- <div align="center">
+<div align="center">
 
 # 👋 Hi, I'm Nehal Agrawal
 
 ### Full-Stack Developer • AI Engineer • Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+real-world+software+%F0%9F%9A%80;Exploring+AI-powered+applications+%F0%9F%A4%96;Turning+ideas+into+products+%F0%9F%92%A1;Learning+DSA+%26+System+Design+%F0%9F%A7%A0" />
+<p>
+  <a href="https://github.com/Nehal390">
+    <img src="https://img.shields.io/badge/GitHub-Nehal390-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-<br>
-
-<a href="https://github.com/Nehal390">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://in.linkedin.com/in/nehal-ll00">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:nehalagarwalnehal@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p>
+  🚀 Building full-stack products &nbsp;•&nbsp;
+  🤖 Exploring AI engineering &nbsp;•&nbsp;
+  🧠 Strengthening DSA &nbsp;•&nbsp;
+  🌱 Learning system design
+</p>
 
 </div>
 
@@ -50,7 +53,7 @@ My work spans intelligent product platforms, supply-chain analytics, grocery com
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,ts" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" />
 
 ### 🎨 Frontend
 
@@ -58,11 +61,11 @@ My work spans intelligent product platforms, supply-chain analytics, grocery com
 
 ### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,firebase" />
 
 ### 🤖 AI, Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,replit,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma" />
 
 </div>
 
@@ -70,18 +73,13 @@ My work spans intelligent product platforms, supply-chain analytics, grocery com
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 InduSense AI
+## 🧠 InduSense AI
 
 **Industrial Product Intelligence Platform**
 
 AI-powered platform designed to understand, search, compare, validate and reason over industrial product data.
 
-**Highlights**
+### Highlights
 
 - 📂 CSV/XLSX catalog ingestion
 - 🧠 AI-powered product understanding
@@ -93,21 +91,17 @@ AI-powered platform designed to understand, search, compare, validate and reason
 - 📤 CSV/XLSX export
 - 🤖 AI Copilot experience
 
-**Stack**
+**Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Gemini` `Recharts` `Three.js` `Vercel`
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Gemini` `Recharts` `Three.js` `Vercel`
+---
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🛒 Grocery IQ Compare
+## 🛒 Grocery IQ Compare
 
 **Smart Grocery Price Comparison**
 
 A platform designed to compare grocery shopping costs across major quick-commerce and grocery platforms.
 
-**Highlights**
+### Highlights
 
 - 🛍️ Grocery product comparison
 - 💰 Cross-platform price comparison
@@ -116,25 +110,17 @@ A platform designed to compare grocery shopping costs across major quick-commerc
 - ⚡ Fast comparison workflow
 - 🎯 Real-world shopping decisions
 
-**Platforms**
+**Platforms:** `Blinkit` `Zepto` `Instamart` `BigBasket`
 
-`Blinkit` `Zepto` `Instamart` `BigBasket`
+---
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔐 VeriVault
+## 🔐 VeriVault
 
 **Asset Management Platform**
 
 A full-stack web application focused on organizing and managing digital or organizational assets.
 
-**Highlights**
+### Highlights
 
 - 📦 Asset management workflow
 - 🗂️ Structured asset organization
@@ -142,17 +128,15 @@ A full-stack web application focused on organizing and managing digital or organ
 - ⚡ Full-stack architecture
 - 🚀 Working deployed prototype
 
-</td>
+---
 
-<td width="50%" valign="top">
-
-### ⛓️ Smart Supply Chain Nexus
+## ⛓️ Smart Supply Chain Nexus
 
 **Adaptive Supply Chain Intelligence**
 
 A logistics and analytics platform designed to make supply chains more resilient and adaptive.
 
-**Highlights**
+### Highlights
 
 - 📊 Logistics analytics
 - 📈 Demand forecasting
@@ -162,129 +146,19 @@ A logistics and analytics platform designed to make supply chains more resilient
 - 🏪 Nearby shops as micro-warehouses
 - 📦 Adaptive fulfillment decisions
 
-**Stack**
-
-`React` `TypeScript` `Tailwind` `Recharts` `Replit` `GitHub`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="./github-metrics.svg" width="850" alt="GitHub Analytics" />
-
-</div>
-
----
-
-# 🧊 3D Contribution Profile
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./profile-3d-contrib/profile-night-view.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./profile-3d-contrib/profile-green.svg"
-  />
-
-  <img
-    src="./profile-3d-contrib/profile-night-view.svg"
-    width="850"
-    alt="3D GitHub Contribution Profile"
-  />
-
-</picture>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Nehal390/Nehal390/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Nehal390/Nehal390/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/Nehal390/Nehal390/output/github-contribution-grid-snake-dark.svg"
-    width="850"
-    alt="GitHub Contribution Snake"
-  />
-
-</picture>
-
-</div>
+**Stack:** `React` `TypeScript` `Tailwind` `Recharts` `Replit` `GitHub`
 
 ---
 
 # 🎯 Current Focus
 
-<table align="center">
-<tr>
+<div align="center">
 
-<td align="center" width="25%">
+| 🚀 Product Building | 🤖 AI Engineering | 🧠 DSA | 🏗️ System Design |
+|:---:|:---:|:---:|:---:|
+| Turning ideas into usable software | Building intelligent product experiences | Strengthening problem-solving skills | Learning scalable architectures |
 
-### 🚀
-
-**Product Building**
-
-Turning ideas into usable software
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**AI Engineering**
-
-Building intelligent product experiences
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**DSA**
-
-Strengthening problem-solving skills
-
-</td>
-
-<td align="center" width="25%">
-
-### 🏗️
-
-**System Design**
-
-Learning scalable architectures
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -292,98 +166,15 @@ Learning scalable architectures
 
 <div align="center">
 
-`AI Applications`
-
-⬇️
-
-`Full-Stack Products`
-
-⬇️
-
-`Data + Analytics`
-
-⬇️
-
-`Automation`
-
-⬇️
-
-`Real-World Problem Solving`
-
-⬇️
-
-`Production-Ready Experiences`
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-<div align="center">
-
-| 📚 DSA | 🏗️ System Design | 🤖 AI Architecture |
-|:---:|:---:|:---:|
-| 🌐 Advanced Full-Stack | 🔓 Open Source | ☁️ Scalable Systems |
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Nehal390&theme=tokyo-night&hide_border=true&area=true"
-  width="850"
-  alt="GitHub Contribution Activity"
-/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Nehal390&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
-  width="850"
-  alt="GitHub Trophies"
-/>
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Nehal390">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://in.linkedin.com/in/nehal-ll00">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:nehalagarwalnehal@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Building ideas into products, one commit at a time.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" />
-
-</div>
+```text
+AI Applications
+       ↓
+Full-Stack Products
+       ↓
+Data + Analytics
+       ↓
+Automation
+       ↓
+Real-World Problem Solving
+       ↓
+Production-Ready Experiences
