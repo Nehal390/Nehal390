@@ -177,29 +177,21 @@ A logistics and analytics platform designed to make supply chains more resilient
 
 <div align="center">
 
-### 📈 Contribution Statistics
+<a href="https://github.com/Nehal390">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Nehal390&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Nehal's GitHub Statistics"
+  />
+</a>
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nehal390&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Statistics"/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nehal390&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Contribution Streak"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal390&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="500" alt="Most Used Languages"/>
+<a href="https://github.com/Nehal390">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal390&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Nehal's Most Used Languages"
+  />
+</a>
 
 </div>
 
