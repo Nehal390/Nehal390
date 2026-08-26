@@ -179,7 +179,7 @@ A logistics and analytics platform designed to make supply chains more resilient
 
 <a href="https://github.com/Nehal390">
 <img
-  src="https://nehal390-pxmj2y44b-nehal390s-projects.vercel.app/api?username=Nehal390&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=Nehal390&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
   height="180"
   alt="Nehal's GitHub Statistics"
 />
@@ -187,7 +187,7 @@ A logistics and analytics platform designed to make supply chains more resilient
 
 <a href="https://github.com/Nehal390">
 <img
-  src="https://nehal390-pxmj2y44b-nehal390s-projects.vercel.app/api/top-langs/?username=Nehal390&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal390&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
   height="180"
   alt="Nehal's Most Used Languages"
 />
