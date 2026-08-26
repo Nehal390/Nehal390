@@ -177,22 +177,12 @@ A logistics and analytics platform designed to make supply chains more resilient
 
 <div align="center">
 
-### 📈 Contribution Overview
+### 📈 Contribution Activity
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Nehal390&theme=tokyo-night&hide_border=true&area=true"
+  src="./github-metrics.svg"
   width="850"
-  alt="GitHub Contribution Activity"
-/>
-
-<br><br>
-
-### 🐍 Contribution Snake
-
-<img
-  src="https://raw.githubusercontent.com/Nehal390/Nehal390/output/github-contribution-grid-snake-dark.svg"
-  width="850"
-  alt="GitHub Contribution Snake"
+  alt="GitHub Analytics"
 />
 
 </div>
