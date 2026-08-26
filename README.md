@@ -325,7 +325,7 @@ Learning scalable architectures
 <div align="center">
 
 <a href="https://github.com/Nehal390">
-  <img src="https://raw.githubusercontent.com/Nehal390/Nehal390/main/github-metrics.svg" width="850" alt="Nehal's GitHub Contribution Activity" />
+  <img src="./github-metrics.svg" width="850" alt="Nehal's GitHub Contribution Activity" />
 </a>
 
 </div>
