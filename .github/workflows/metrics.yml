@@ -11,31 +11,22 @@ permissions:
 jobs:
   metrics:
     runs-on: ubuntu-latest
-
     steps:
       - name: Generate GitHub Metrics
         uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-
           filename: github-metrics.svg
-
           base: header, activity, community, repositories, metadata
-
           config_timezone: Asia/Kolkata
           config_display: compact
           config_padding: 0
-
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
-
           plugin_topics: yes
           plugin_topics_limit: 10
-
           plugin_achievements: no
-          plugin_achievements_display: compact
