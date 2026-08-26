@@ -177,23 +177,32 @@ A logistics and analytics platform designed to make supply chains more resilient
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%">
+
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Nehal390&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=Nehal390&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
   alt="GitHub Stats"
 />
 
+</td>
+
+<td width="50%">
+
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=Nehal390&theme=tokyonight&hide_border=true"
-  width="49%"
   alt="GitHub Contribution Streak"
 />
 
-<br><br>
+</td>
+</tr>
+</table>
+
+<br>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal390&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  width="45%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal390&layout=compact&theme=tokyonight&hide_border=true"
   alt="Most Used Languages"
 />
 
