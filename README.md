@@ -325,13 +325,7 @@ Learning scalable architectures
 <div align="center">
 
 <a href="https://github.com/Nehal390">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Nehal390&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  width="850"
-  alt="Nehal's GitHub Stats"
-/>
-
+  <img src="https://raw.githubusercontent.com/Nehal390/Nehal390/main/github-metrics.svg" width="850" alt="Nehal's GitHub Contribution Activity" />
 </a>
 
 </div>
