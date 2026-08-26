@@ -320,22 +320,21 @@ Learning scalable architectures
 
 ---
 
- # 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
 <a href="https://github.com/Nehal390">
 
 <img
-  src="https://github-readme-activity-graph.a33a.dev/graph?username=Nehal390&theme=tokyo-night&hide_border=true&area=true"
+  src="https://github-readme-stats.vercel.app/api?username=Nehal390&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   width="850"
-  alt="Nehal's GitHub Contribution Activity"
+  alt="Nehal's GitHub Stats"
 />
 
 </a>
 
 </div>
-
 ---
 
 # 🏆 GitHub Achievements
