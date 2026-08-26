@@ -177,7 +177,25 @@ A logistics and analytics platform designed to make supply chains more resilient
 
 <div align="center">
 
-<img src="./github-metrics.svg" width="850" alt="GitHub Analytics" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Nehal390&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+  width="49%"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Nehal390&theme=tokyonight&hide_border=true"
+  width="49%"
+  alt="GitHub Contribution Streak"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal390&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  width="45%"
+  alt="Most Used Languages"
+/>
 
 </div>
 
