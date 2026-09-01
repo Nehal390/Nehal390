@@ -319,19 +319,7 @@ Learning scalable architectures
 </div>
 
 ---
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/Nehal390">
-  <img src="./github-metrics.svg" width="850" alt="Nehal's GitHub Contribution Activity" />
-</a>
-
-</div>
-
----
-
+ 
 # 🏆 GitHub Achievements
 
 <div align="center">
